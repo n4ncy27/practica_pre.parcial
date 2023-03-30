@@ -56,3 +56,4 @@ public class PanelResultados extends JPanel
         taResultado.append(msj+"\n");
     }
 }
+/*lii */

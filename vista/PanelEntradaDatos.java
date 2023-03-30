@@ -96,3 +96,4 @@ public class PanelEntradaDatos extends JPanel
         tfPosY.setText("");
     }
 }
+/*lii */

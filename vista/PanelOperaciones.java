@@ -86,3 +86,4 @@ public class PanelOperaciones extends JPanel
         bFrenar.setEnabled(true);
     }
 }
+/*lii */
